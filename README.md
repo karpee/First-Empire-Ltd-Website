@@ -1,4 +1,4 @@
-# First-Empire-Ltd-Website
+# First Empire Ltd Website
 ## Project Description:  
 
 **First Empire Ltd** is a specialized gold and diamond mining and logistics company based in Ghana. We focus on mining, exporting, and providing dedicated logistics solutions for precious metals and gemstones. Our commitment to excellence ensures reliable, personalized services that meet international standards.  
